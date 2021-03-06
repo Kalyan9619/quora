@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "build:dist": "webpack --progress",
   "scripts": {
     "forever": "forever -w server.js",
     "client": "cd frontend && npm start"
