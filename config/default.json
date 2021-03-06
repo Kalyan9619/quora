@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://chatweb:chatweb@cluster0.csivb.mongodb.net/social?retryWrites=true&w=majority",
+  "jsonWebTokenSecret": "helloWorld"
+}
